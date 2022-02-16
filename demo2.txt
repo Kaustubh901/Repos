@@ -1,2 +1,2 @@
 This is demo2 file.
-demo2 .
+demo2 file.
